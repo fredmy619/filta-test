@@ -672,3 +672,13 @@ if ( ! function_exists( 'get_parent_page_id' ) ) :
 		return null;
 	}
 endif;
+
+
+if (function_exists('add_theme_support')){
+    // Add Thumbnail Theme Support
+    add_image_size('medium', 300, 300, true); // Medium Thumbnail
+}
+
+if( function_exists('acf_add_options_page') ) {
+	acf_add_options_page();
+}
