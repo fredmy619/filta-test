@@ -19,3 +19,12 @@ image A. Note: Image A and B can be any unique images.
 
 Demo Part 1:https://www.loom.com/share/63017e307ecd438898b000a33573fa22?sid=8c31ef23-62a5-4822-a040-d26bb1a0b322
 Demo Part 2:https://www.loom.com/share/08ab46c6d0f84a1ab24c7a5c5c6957bb
+
+
+===
+
+TASK 2:
+Create a custom module/plugin that provides a simple block in a designated page (homepage) for
+displaying “Product of the Day”.
+
+https://www.loom.com/share/96bda255c63d4d70ba4926a287eb3ca5?sid=f5381145-c576-47c9-8bee-20b2a378c54e
