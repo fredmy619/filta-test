@@ -27,4 +27,9 @@ TASK 2:
 Create a custom module/plugin that provides a simple block in a designated page (homepage) for
 displaying “Product of the Day”.
 
+1. I use the same theme from the task #1.
+2. Go to twentytwentyone/custom-home.php it's where we added the code to display the products block.
+3. Installed Custom Post Type UI and Advanced Custom Fields PRO plugin.
+4. Please see the video for the explanation.
+
 https://www.loom.com/share/96bda255c63d4d70ba4926a287eb3ca5?sid=f5381145-c576-47c9-8bee-20b2a378c54e
