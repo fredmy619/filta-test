@@ -30,7 +30,11 @@ displaying “Product of the Day”.
 1. I use the same theme from the task #1.
 2. Go to twentytwentyone/custom-home.php it's where we added the code to display the products block.
 3. Installed Custom Post Type UI and Advanced Custom Fields PRO plugin to create the feature.
-4. Please see the video for the explanation.
+4. Create a custom post type "products"
+5. Add new products.
+6. Import "acf-export-2023-11-08.json" to https://perfumed-cheesecake.localsite.io/wp-admin/edit.php?post_type=acf-field-group&page=acf-tools
+7. Updated the options of the products.
+8. Please see the video for the explanation.
    
 Open Live Link:
 https://perfumed-cheesecake.localsite.io
@@ -43,7 +47,8 @@ Login: https://perfumed-cheesecake.localsite.io/wp-login.php
 username: admin
 password: admin
 
-
+Note: Instead of creating a plugin from scratch I use 3rd party plugin to create the half of the functionality. I create a custom-home.php template to display the products and add the query code. 
+Given the timeframe 3-4 hours it's not doable for a custom from scratch plugin.
 
 
 https://www.loom.com/share/96bda255c63d4d70ba4926a287eb3ca5?sid=f5381145-c576-47c9-8bee-20b2a378c54e
