@@ -48,7 +48,7 @@ username: admin
 password: admin
 
 Note: Instead of creating a plugin from scratch I use 3rd party plugin to create the half of the functionality. I create a custom-home.php template to display the products and add the query code. 
-Given the timeframe 3-4 hours it's not doable for a custom from scratch plugin.
+Given the timeframe 3-4 hours it's not doable for a custom scratch plugin.
 
 
 https://www.loom.com/share/96bda255c63d4d70ba4926a287eb3ca5?sid=f5381145-c576-47c9-8bee-20b2a378c54e
